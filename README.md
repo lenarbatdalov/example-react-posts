@@ -1,3 +1,10 @@
+### `npm i`
 ### `npm start`
 
-[http://localhost:3000](http://localhost:3000)
+### <a target="_blank" href="http://localhost:3000">Открыть</a><br/><br/>
+
+<p>Логин и пароль отсутствуют, можно просто нажать "Войти" и все ок</p>
+
+---
+
+![Расширение 1](/Screenshot_20220525_165126.png)
